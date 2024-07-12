@@ -1,0 +1,31 @@
+--global - Armazena todos repositórios com mesmo nome ou mesmo e-mail.
+
+git clone https://github.com/ehbruninho/teste.git repositorio-clonado - Adiciona nome para repositório baixado.
+
+git remote add origin - Adiciona repositório remoto no repositório local
+
+git clone URL --branch feacture-1 --single-branch =  
+
+git init = inicializa um repositório git
+
+git status = mostrar status da arvore de trabalho / index
+
+touch = criar um arquivo vazio
+
+git commit - envia as alterações do repositório.
+
+git ignore - adiciona pasta ou arquivo que não quer que apareça no diretório.
+
+rm -rf .git = remove toda estrutura git gerada pelo git.init 
+
+git restore + (Arquivo/Repositório) - restaura todas modificações efetuadas no arquivo ou repositório
+
+git commit --amend -m = Atualiza o nome do ultimo git efetuado.
+
+git reset --soft = pega arquivos nos commits posteriores ao hash, e adiciona na área de preparação. 
+
+git reset --mixed =  pega arquivos nos commits posteriores ao hash, não adiciona na área de preparação.
+
+git reset --hard = pega arquivos nos commits posteriores ao hash, deleta  
+
+git pull - puxa alterações do repositório remoto (web) e mesclar com repositório local (Maquina)
