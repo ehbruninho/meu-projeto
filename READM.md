@@ -12,3 +12,5 @@ Repositório para armazenar resumos sobre Git e GitHub do curso versionamento de
 | Aulas | Resulmos |
 |------|-----------|
 |Gravando Alterações no Repositório local | [Resumos] (https://github.com/ehbruninho/meu-projeto)
+
+teste retirada
